@@ -1,14 +1,16 @@
 # WireSharkProtocol
-用LUA寫protocol解析
+##用LUA寫protocol解析
 
-usage:
-  prepare:
-     execution wireshark application.
-     take look [HELP]/[ABOUT]/[Folders]
-     open Global Plugins Folders <---- put LUA file
+ * usage:
 
-  run:
-     [Analyze] / [Reload LUA plugins] (Ctrl+Shift+L)
-     [Analyze] / [Enabled Protocols] - check on about [self protocol].
-     
-     Capture your network package and got it.
+    * prepare:
+  
+       1. execution wireshark application.
+       1. take look [HELP]/[ABOUT]/[Folders]
+       1. open Global Plugins Folders <---- put LUA file
+
+    * run:
+    
+       1. [Analyze] / [Reload LUA plugins] (Ctrl+Shift+L)
+       1. [Analyze] / [Enabled Protocols] - check on about [self protocol].
+       1. Capture your network package and got it.
