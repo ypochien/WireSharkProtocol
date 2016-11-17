@@ -14,3 +14,5 @@
        1. [Analyze] / [Reload LUA plugins] (Ctrl+Shift+L)
        1. [Analyze] / [Enabled Protocols] - check on about [self protocol].
        1. Capture your network package and got it.
+
+Wireshark LUA API - https://www.wireshark.org/docs/wsdg_html_chunked/wsluarm_modules.html ***
